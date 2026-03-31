@@ -8,9 +8,12 @@
 - up to 3 active pets at once
 - draggable pets
 - multi-display selection
+<img width="455" height="611" alt="Ss2" src="https://github.com/user-attachments/assets/c59071ec-61f1-4c9e-947a-7f91d8ee2fff" />
+
 - positive slogan toggle
 - control panel for world settings and pet management
 - pixel character roster with variants
+<img width="1277" height="122" alt="Ss4" src="https://github.com/user-attachments/assets/0e3ccc1d-35c2-4101-80dc-8cc970f06151" />
 
 ## Available Characters
 
