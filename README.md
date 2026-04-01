@@ -11,8 +11,9 @@
 - positive slogan toggle
 - control panel for world settings and pet management
 - pixel character roster with variants
-<img width="455" height="611" alt="Ss2" src="https://github.com/user-attachments/assets/c59071ec-61f1-4c9e-947a-7f91d8ee2fff" />
-<img width="1277" height="122" alt="Ss4" src="https://github.com/user-attachments/assets/0e3ccc1d-35c2-4101-80dc-8cc970f06151" />
+<img width="412" height="567" alt="Screenshot 2026-04-01 101303" src="https://github.com/user-attachments/assets/9957bdbc-beaf-4f3b-815d-9c6f40049611" />
+<img width="1273" height="133" alt="Screenshot 2026-04-01 101338" src="https://github.com/user-attachments/assets/6e5e935c-7f05-4784-abd4-fe7dcf65dd8b" />
+
 
 ## Available Characters
 
